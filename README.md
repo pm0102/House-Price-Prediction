@@ -46,9 +46,4 @@ Technology and tools used in this project
   Step#8: Export any other important info
   ```
 
-/*## Dataset Reference
-/* [Bengaluru House price data](https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data)
-* I have also uploaed the csv file in this repository [Bengaluru_House_Data.csv](Bengaluru_House_Data.csv)
-*/
-Reference
-*/
+
