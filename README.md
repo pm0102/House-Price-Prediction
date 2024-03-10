@@ -18,8 +18,7 @@ Technology and tools used in this project
 * Matplotlib for data visualization
 * Sklearn for model building
 * Google Colaboratory Notebook
-* Python flask for http server
-* HTML/CSS/Javascript for UI
+  
 
 ## Steps
 1. We will first build a model using sklearn and linear regression using banglore home prices dataset from kaggle.com.
